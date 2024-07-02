@@ -128,10 +128,6 @@ This work was done as part of the ST311 course at the London School of Economics
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or issues, please contact us at [email@example.com](mailto:email@example.com).
-
 ## Links
 
 - [Colab Notebook](https://colab.research.google.com/drive/1V59vfCSLv6DxCXBrqy1M9k081DuEAcjB?usp=sharing)
